@@ -3,10 +3,9 @@ The beersong In this puzzle, write code to print out the entire "99 bottles of b
 The beersong In this puzzle, write code to print out the entire "99 bottles of beer on the wall" song. For those who do not know the song, the lyrics follow this form:
 
 >X bottles of beer on the wall, X bottles of beer.
->Take one down, pass it around, X-1 bottles of beer on the wall.
-
->X-1 bottles of beer on the wall, X bottles of beer.
->...
+Take one down, pass it around, X-1 bottles of beer on the wall.
+X-1 bottles of beer on the wall, X bottles of beer.
+...
 
 last two paragraph is different. It should be:
 
